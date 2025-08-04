@@ -1,0 +1,9 @@
+{
+	"servers": {
+		"my-mcp-demo-server-a9911bf5": {
+			"url": "http://127.0.0.1:8000/sse",
+			"type": "sse"
+		}
+	},
+	"inputs": []
+}
